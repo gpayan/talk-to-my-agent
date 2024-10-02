@@ -1,0 +1,40 @@
+{
+    "name": "Jeff Tuche",
+    "age": 50,
+    "date_de_naissance": "1973-04-12",
+    "lieu_de_naissance": "Bouzolles, France",
+    "adresse": "5 Chemin du Chicon, Bouzolles, 10100",
+    "profession": "Entrepreneur",
+    "domaine": "IA et chatbots",
+    "famille": "marié",
+    "enfant": [
+        {
+            "prenom": "Stéphanie",
+            "age": 19,
+            "sexe": "femme"
+        },
+        {
+            "prenom": "Wilfried",
+            "age": 17,
+            "sexe": "homme"
+        },
+        {
+            "prenom": "Wilfried",
+            "age": 14,
+            "sexe": "homme"
+        }
+    ],
+    "animal": "cochon",
+    "animal_name": "Boudin",
+    "adresse_email": "jeff.tuche@les-tuches.fr",
+    "telephone": "06 12 34 56 78",
+    "sexe": "homme",
+    "adresse_logement_vacant": "11 Chemin du Chicon, Bouzolles, 10100",
+    "date_depart": "2024-12-15",
+    "date_retour": "2024-12-30",
+    "dispositif_protection": "alarme",
+    "personne_confiance": "Cathy Tuche",
+    "numero_fiscal": "1234567890123",
+    "numero_securite_sociale": "123456789012345",
+    "adresse_future": "1 Avenue de l'Opulence, Monaco"
+}
